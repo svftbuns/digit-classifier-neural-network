@@ -4,6 +4,11 @@ This is part of the <a href='https://www.kaggle.com/competitions/digit-recognize
 
 In this project, I have decided to build a dense neural network from scratch (only using numpy) in order to better understand the functionalities and mathematics behind each step in the neural network. I have also experimented with different hyper-parameters, activation and initialization functions and number of layers and nodes. Feel free to look through my notebook for more information. 
 
+## Layers and Nodes
+- 784-10-10
+- 784-10-10-10
+- 784-128-64-10
+
 ## Initialization functions
 - Xavier Initialization
 
