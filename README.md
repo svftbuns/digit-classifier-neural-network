@@ -1,4 +1,4 @@
-# digit-classifier-neural-network
+# Digit Classifier Neural Network
 
 This is part of the <a href='https://www.kaggle.com/competitions/digit-recognizer'>Kaggle Digit Recognizer Competition</a>, which employs the MNIST database. The MNIST database is a set of images of handwritten digits. Participants are introduced to various models ranging from regression to neural networks to learn to classify these images. 
 
